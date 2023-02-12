@@ -12,8 +12,8 @@ sidebar:
     children:
       - cmu-15445-database-overview
   - label: CMU 15445 Database System
-  children:
-    - cmu-15445-database-overview
+    children:
+      - cmu-15445-database-overview
 
 # Support content search for this website, supported by zendesk theme.
 search_enabled: true
