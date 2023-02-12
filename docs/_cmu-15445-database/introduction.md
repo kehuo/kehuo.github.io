@@ -1,6 +1,6 @@
 ---
 title:  CMU 15445 Database Introduction
-permalink: /cmu/15445-database/introduction
+permalink: /cmu-15445-database/introduction
 ---
 
 # CMU 15445 Database System
