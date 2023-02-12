@@ -1,8 +1,14 @@
 ---
-title: HUO Ke Github Page Index
+title: HUO Ke Website Homepage
 permalink: /
 ---
 
-# HUO Ke Github Page Index
+Hi there,
 
-This is docs/index.md content.
+I am a backend developer, this is my website contains (but is not limited to) the following content:
+
+- Algorithms and data structure learning notes.
+- Open source courses learning notes.
+- Project and Application demo.
+- More contents I am interested in.
+
