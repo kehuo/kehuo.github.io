@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Introduction of CMU 15445 Database
+title:  CMU 15445 Database Introduction
 permalink: /cmu-15445-database/introduction
 ---
 

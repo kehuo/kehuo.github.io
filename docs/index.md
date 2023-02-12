@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Introduction of CMU 15445 Database
+title: HUO Ke Github Page Index
 permalink: /
 ---
 
 # HUO Ke Github Page Index
 
-This is docs/index.md
+This is docs/index.md content.
