@@ -7,19 +7,7 @@ permalink: /cmu-15445-database/introduction
 
 # CMU 15445 Database System
 
-Hi this is the doc file for cmu 15445 database system.
 
-Below is c++ code example:
+This is a learning note for the [Carnegie Mellon University](https://db.cs.cmu.edu) [Introduction to Database Systems](https://15445.courses.cs.cmu.edu) (15-445/645) course. 
 
-```cpp
-#include <cstdio>
-
-int main() {
-    printf("Hello %s !", "C++");
-
-    return 0;
-}
-
-```
-
-Code block ends. The followings are other contents.
+There is also a lab for this course. The lab is to build a relational database management system called BusTub. CMU provides an Github repository for this lab, I have forked this lab repo and will complete this [lab](https://github.com/kehuo/bustub) after finishing learning the course.
