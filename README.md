@@ -1,3 +1,1 @@
-# Hello
-
-This is my [Github Page](https://pages.github.com/) Repository.
+HUO Ke [Github Page](https://pages.github.com/) Repository.
