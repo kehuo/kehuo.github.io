@@ -1,4 +1,6 @@
 ---
+id: cmu-15445-database-introduction
+sidebar_label: Introduction
 title:  CMU 15445 Database Introduction
 permalink: /cmu-15445-database/introduction
 ---

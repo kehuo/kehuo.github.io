@@ -1,8 +1,11 @@
-# Build Settings
-# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
 # https://jekyllrb.com/docs/
-# remote_theme: pages-themes/cayman@v0.2.0
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+
+sidebar:
+  - label: CMU 15445 Database
+    children:
+      - cmu-15445-database-introduction
+
 
 # plugins:
 # - jekyll-remote-theme
