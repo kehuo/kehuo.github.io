@@ -1,11 +1,16 @@
 # https://jekyllrb.com/docs/
+
+title: HUO Ke Website
+description: HUO Ke personal website hosted by Github Pages.
+
+# https://zendesk.github.io/jekyll-theme-zendesk-garden/
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
+# Website sidebar, supported by zendesk theme.
 sidebar:
   - label: CMU 15445 Database
     children:
       - cmu-15445-database-introduction
 
-
-# plugins:
-# - jekyll-remote-theme
+# Support content search for this website, supported by zendesk theme.
+search_enabled: true
