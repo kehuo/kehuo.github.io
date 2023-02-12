@@ -10,10 +10,11 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 sidebar:
   - label: Algorithms and Data Structures
     children:
-      - cmu-15445-database-overview
+      - algo-and-data-structure-overview
   - label: CMU 15445 Database System
     children:
-      - cmu-15445-database-overview
+      - cmu-15445-db-overview
+      - cmu-15445-db-mem-mgmt-and-buffer-cache
 
 # Support content search for this website, supported by zendesk theme.
 search_enabled: true
