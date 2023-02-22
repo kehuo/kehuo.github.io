@@ -1,7 +1,7 @@
 ---
 id: cmu-15445-db-mem-mgmt-and-buffer-cache
 sidebar_label: Memory Management And Buffer Cache
-title:  CMU 15445 Database Overview
+title:  Memory Management and Buffer Cache
 permalink: /cmu-15445-database/memory-mgmt-and-buffer-cache
 ---
 

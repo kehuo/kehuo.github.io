@@ -15,6 +15,7 @@ sidebar:
     children:
       - cmu-15445-db-overview
       - cmu-15445-db-mem-mgmt-and-buffer-cache
+      - cmu-15445-db-hash-tables
 
 # Support content search for this website, supported by zendesk theme.
 search_enabled: true
